@@ -1,6 +1,5 @@
-import datetime
 import argparse
-from time import sleep
+import datetime
 
 from pydub import AudioSegment
 
@@ -71,5 +70,4 @@ with possible overlap.
     config = Config.from_args(args)
 
     print(doc)
-    sleep(5)
     process(config)

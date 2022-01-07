@@ -1,3 +1,4 @@
+```
  ____   ____ ____  ______
 |    \ /    |    \|      |
 |  o  )  o  |  D  )      |
@@ -7,6 +8,7 @@
 |_____|__|__|__|\_| |__|
 
 "Are you transcribing a conversation? BART can help!"
+```
 
 BART (Beyond Audio Replay Technology) aids transcribe tasks by taking a source audio file
 and creating automatic repeated loops, allowing transcribers to listen to fragments multiple
